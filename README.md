@@ -2,7 +2,7 @@
 
 [![MasterHead](https://i.pinimg.com/originals/6b/cd/f2/6bcdf2799bc8300f6684fe9b432c2c5b.gif)](https://i.pinimg.com/originals/6b/cd/f2/6bcdf2799bc8300f6684fe9b432c2c5b.gif)
 <h1 >Hi 👋, I'm Cyrine Fakhfakh</h1>
-<h3 align="left">A passionate developper</h3>
+<h3 align="left">A passionate developer</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
 
 
