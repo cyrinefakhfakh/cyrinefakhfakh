@@ -1,27 +1,68 @@
+<!-- README.md for Cyrine Fakhfakh -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=👩‍💻+Data+Wizard;🤖+AI+Explorer;📈+Visual+Thinker" alt="Typing SVG" />
+</h1>
 
 
-[![MasterHead](https://i.pinimg.com/originals/6b/cd/f2/6bcdf2799bc8300f6684fe9b432c2c5b.gif)](https://i.pinimg.com/originals/6b/cd/f2/6bcdf2799bc8300f6684fe9b432c2c5b.gif)
-<h1 >Hi 👋, I'm Cyrine Fakhfakh</h1>
-<h3 align="left">A passionate developer</h3>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
-
-
-
-- 🌱 I’m currently learning **java**
-
-- 👨‍💻 All of my projects are available at [https://myportfolio-3nr.pages.dev/](https://myportfolio-3nr.pages.dev/)
-- 📫 How to reach me **sirinefakhfakh03@gmail.com**
-
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/cyrine fakhfakh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyrine fakhfakh" height="30" width="40" /></a>
-<a href="https://fb.com/cyrine fk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cyrine fk" height="30" width="40" /></a>
-<a href="https://instagram.com/cyrine fk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyrine fk" height="30" width="40" /></a>
+<!-- 🔥 GitHub Streak Stats (Animated Glow) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyrinefakhfakh&theme=highcontrast&fire=F7931E&ring=F7931E&currStreakLabel=ffffff" alt="Streak Stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <br><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<!-- 🚀 Skills Radar Chart -->
+<h3 align="center">🧠 My Tech Map</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,keras,react,js,html,css,github,figma,linux&theme=dark&perline=5" alt="Skill Icons" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyrinefakhfakh&theme=vue" />
+</p>
 
+<!-- 🎨 Technologies I’m Learning (Flip Cards or Carousel-like Loop) -->
+<h3 align="center">🌱 Currently Exploring</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-%23f7931e.svg?style=for-the-badge&logo=OpenAI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebGL-%23c8bfe7.svg?style=for-the-badge&logo=three.js&logoColor=black" />
+</p>
+
+<!-- 🧪 Featured Projects (with animated thumbnails) -->
+<h3 align="center">💼 Featured Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/cyrinefakhfakh/your-project">
+    <img src="https://github.com/cyrinefakhfakh/your-project/blob/main/demo.gif" width="300" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-%2314354c.svg?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dash-%2320232a.svg?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Users-120+-blue.svg?style=flat-square" />
+</p>
+
+<!-- 🧩 Visitor Counter -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/cyrinefakhfakh/count.svg" />
+</p>
+
+<!-- 🔗 Let's Connect -->
+<h3 align="center">📬 Let’s Connect</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/cyrine-fakhfakh/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sirinefakhfakh03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<!-- 🤝 Collaborate -->
+<h3 align="center">
+  <a href="mailto:sirinefakhfakh03@gmail.com">
+    <img src="https://img.shields.io/badge/🤝 Let's+Collaborate-F7931E?style=for-the-badge&logo=github" />
+  </a>
+</h3>
